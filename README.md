@@ -1,8 +1,8 @@
 ## Project Documentation
 
-[View AI Career Mentor Documentation](AI-Career-Mentor-Documentation.pdf)
+[View AI Career Mentor Documentation](AI-Career-Mentor-Documentation.pdf.pdf)
 
-[View AI Career Mentor App](AI-Career-Mentor-App.pdf)
+[View AI Career Mentor App](AI-Career-Mentor-App.pdf.pdf)
 
 ## Figma Prototype
 
